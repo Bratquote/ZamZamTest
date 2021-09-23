@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  ZamZamTest
+
+  Created by Timur Karimov on 23.09.2021.
+  
+*/
+
+/// Main
+"Main.limits" = "Лимиты";
+"Main.openCardsList" = "Открыть список карт";
+
+/// CardsList
+"CardsList.anonymous" = "Анонимная";
+"CardsList.virtualCard" = "Виртуальная\nкарта";
+"CardsList.confirmed" = "Подтвержденная";
+"CardsList.phoneLinked" = "Привязан\nтелефон";
+"CardsList.maxAccountBalance" = "Максимальный остаток\nна счете";
+"CardsList.maxWithdrawSize" = "Максимальный объем\nсписаний";
+"CardsList.needToWtiteText" = "Требуется написать текст";
+"CardsList.authenticationPassed" = "Пройдена\nидентификация*";
+
+
